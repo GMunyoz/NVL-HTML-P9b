@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title>LFPE</title>
+     <style>
+     </style>
+
+   </head>
+   
+   <body>
+    <table>
+        <caption>Liga Futbol Profesional de España</caption>
+        <th>
+           <td>Nombre</td>
+           <td>Pts</td>
+           <td>G-x-P</td>
+           <td>A Favor</td>
+           <td>En Contra</td>
+        </th>
+        <tr>
+           <td>1</td>
+           <td>Real Madrid</td>
+           <td>53</td>
+           <td>15-8-1</td>
+           <td>46</td>
+           <td>16</td>
+        </tr>
+        
+        <tr>
+            <td>2</td>
+            <td>Barcelona</td>
+            <td>52</td>
+            <td>16-4-4</td>
+            <td>57</td>
+            <td>29</td>
+         </tr>
+         <tr>
+            <td>3</td>
+            <td>Getafe</td>
+            <td>42</td>
+            <td>12-6-6</td>
+            <td>36</td>
+            <td>22</td>
+         </tr>
+         <tr>
+            <td>4</td>
+            <td>Atlético</td>
+            <td>40</td>
+            <td>10-10-4</td>
+            <td>25</td>
+            <td>17</td>
+         </tr>
+         <tr>
+            <td>5</td>
+            <td>Sevilla</td>
+            <td>40</td>
+            <td>11-7-6</td>
+            <td>31</td>
+            <td>25</td>
+         </tr>
+         <tr>
+            <td>6</td>
+            <td>Villarreal</td>
+            <td>38</td>
+            <td>11-5-8</td>
+            <td>42</td>
+            <td>32</td>
+         </tr>
+         <tr>
+            <td>7</td>
+            <td>Valencia</td>
+            <td>38</td>
+            <td>10-8-6</td>
+            <td>35</td>
+            <td>34</td>
+         </tr>
+         <tr>
+            <td>8</td>
+            <td>R.Sociedad</td>
+            <td>37</td>
+            <td>11-4-8</td>
+            <td>39</td>
+            <td>31</td>
+         </tr>
+         <tr>
+            <td>9</td>
+            <td>Granada</td>
+            <td>33</td>
+            <td>10-3-11</td>
+            <td>29</td>
+            <td>31</td>
+         </tr>
+         <tr>
+            <td>10</td>
+            <td>Atheletic</td>
+            <td>31</td>
+            <td>7-10-7</td>
+            <td>23</td>
+            <td>20</td>
+         </tr>
+                 </table>
